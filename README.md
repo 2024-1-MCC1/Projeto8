@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://imgur.com/a/QXeYp2b" alt="Sea Hunters" border="0">
+<img src="https://imgur.com/a/QXeYp2b" alt="Ocean Cleaner" border="0">
   Game by <a href="http://www.nyphotographic.com/">Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
