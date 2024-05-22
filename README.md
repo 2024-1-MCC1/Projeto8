@@ -4,9 +4,9 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Nome do Projeto: Ocean Cleaner
 
-## Nome do Grupo
+## Nome do Grupo: Sea Men
 
 ## Integrantes: <a href="https://github.com/GabrielAugustoT800">Gabriel Augusto da Silva</a>, <a href="https://github.com/paschoalha">Gabriel Paschoal</a>, <a href="https://github.com/vitorzoken">Vitor Kenzo</a>, <a href="https://github.com/BryanMatoss">Bryan Matos</a>
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>
