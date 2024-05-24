@@ -99,11 +99,71 @@ Coloque código do prompt de comnando se for necessário
 
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.0.1 - 18/05/2024
+* 0.0.1 - 15/05/2024
+  versão antiga
+* 0.0.2 - 17/05/2024
+  versão antiga
+* 0.0.3 - 18/05/2024
     * Trabalho em andamento
+* 0.0.4 - 20/05/2024
+  versão antiga
+* 0.0.5 - 22/05/2024
+  versão antiga
+* 0.0.6 - 24/05/2024
+  Versão Final
 
 ## 📋 Licença/License
 Sea Hunters © 2024 by Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos is licensed under Creative Commons Attribution 4.0 International 
 
 ## 🎓 Referências
+Pesquisas: 
 
+https://brasil.un.org/pt-br/sdgs/14 
+
+ 
+
+https://g1.globo.com/meio-ambiente/noticia/2022/02/08/poluicao-plastica-afeta-88-das-especies-marinhas-diz-wwf.ghtml 
+
+ 
+
+https://www.cnnbrasil.com.br/internacional/oceanos-tem-mais-de-170-trilhoes-de-particulas-de-plastico-diz-estudo/ 
+
+ 
+
+https://www.estrategiaods.org.br/os-ods/ods14/ 
+
+ 
+
+Referências para criação do jogo: 
+
+https://youtu.be/yIaAE9bLxXI?si=XqGCt72TJVnUkqNj 
+
+ 
+
+https://youtu.be/K4uOjb5p3Io?si=BCIlrjpDx2mi2xJF 
+
+ 
+
+https://youtu.be/pKFtyaAPzYo?si=gNTbiJDauQlrFXJY 
+
+ 
+
+https://youtu.be/8eWbSN2T8TE?si=kaFaE9Joo3yKZMsD 
+
+ 
+
+https://youtu.be/P9arRMWv-Zk?si=7yTqB8L0_iKH57QE 
+
+ 
+
+https://youtu.be/c8Nq19gkNfs?si=_FO6wLZk_VWpaSRK 
+
+ 
+
+https://youtu.be/dYs0WRzzoRc?si=IQw0DNLLb1XRUhSN 
+
+ 
+
+https://youtu.be/61NzCU3EdUs?si=Vt6xUYag5XoxyIzy 
+
+Manual do Unity 
