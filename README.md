@@ -13,7 +13,7 @@
 ## Descrição
 
 <p align="center">
-<img src="https://i.ibb.co/R31wcvY/image-jogo.png" alt="Ocean Cleaner" border="0">
+<img src="https://i.ibb.co/y6Djqfd/image-jogo.png" alt="Ocean Cleaner" border="0">
   Game by <a href="http://www.nyphotographic.com/">Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
@@ -113,7 +113,7 @@ A cada atualização os detalhes devem ser lançados aqui.
   Versão Final
 
 ## 📋 Licença/License
-Sea Hunters © 2024 by Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos is licensed under Creative Commons Attribution 4.0 International 
+Ocean Cleaner © 2024 by Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos is licensed under Creative Commons Attribution 4.0 International 
 
 ## 🎓 Referências
 Pesquisas: 
