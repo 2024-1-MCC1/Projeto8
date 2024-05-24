@@ -9,7 +9,7 @@
 ## Nome do Grupo: Sea Men
 
 ## Integrantes: <a href="https://github.com/GabrielAugustoT800">Gabriel Augusto da Silva</a>, <a href="https://github.com/paschoalha">Gabriel Paschoal</a>, <a href="https://github.com/vitorzoken">Vitor Kenzo</a>, <a href="https://github.com/BryanMatoss">Bryan Matos</a>
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Queiroz</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Prof. Victor Bruno Alexander Rosetti de Quiroz, Adriano Félix Valente, Fabiano Alves Onça</a>
 ## Descrição
 
 <p align="center">
