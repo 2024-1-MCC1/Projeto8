@@ -113,7 +113,7 @@ A cada atualização os detalhes devem ser lançados aqui.
   Versão Final
 
 ## 📋 Licença/License
-Sea Hunters © 2024 by Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos is licensed under Creative Commons Attribution 4.0 International 
+Ocean Cleaner © 2024 by Gabriel Augusto, Gabriel Paschoal, Vitor Kenzo, Bryan Matos is licensed under Creative Commons Attribution 4.0 International 
 
 ## 🎓 Referências
 Pesquisas: 
